@@ -16,5 +16,6 @@ public class Snack1 {
         } else {
             System.out.print("Hai inserito un numero negativo");
         }
+        scan.close();
     }
 }
